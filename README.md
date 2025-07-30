@@ -21,7 +21,7 @@
 
 ### 1. Клонируй репозиторий
 ```bash
-git clone https://github.com/your-username/AdPlatformLocator.git
+git clone https://github.com/bahromzokirov/AdPlatformLocator.git
 cd AdPlatformLocator
 ```
 
