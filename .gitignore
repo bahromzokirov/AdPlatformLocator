@@ -1,0 +1,13 @@
+# Rider
+.idea/
+*.sln.DotSettings.user
+
+# Build
+bin/
+obj/
+
+# User config
+*.user
+*.suo
+*.userprefs
+appsettings.Development.json
